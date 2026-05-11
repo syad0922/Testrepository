@@ -1,0 +1,180 @@
+2025-12-19 23:50:52 [main] INFO  Log - Starting login test
+2025-12-19 23:50:52 [main] INFO  Log - Entering the credentials
+2025-12-19 23:50:53 [main] INFO  Log - login successful
+2025-12-19 23:52:26 [main] INFO  Log - Starting webDriver
+2025-12-19 23:52:28 [main] INFO  Log - Navigating to test url
+2025-12-19 23:52:28 [main] INFO  Log - Starting login test
+2025-12-19 23:52:28 [main] INFO  Log - Entering the credentials
+2025-12-19 23:52:28 [main] INFO  Log - login successful
+2025-12-19 23:52:28 [main] INFO  Log - Closing the browser
+2025-12-19 23:53:06 [main] INFO  Log - Starting webDriver
+2025-12-19 23:53:08 [main] INFO  Log - Navigating to test url
+2025-12-19 23:53:08 [main] INFO  Log - Starting login test
+2025-12-19 23:53:08 [main] INFO  Log - Entering the credentials
+2025-12-19 23:53:08 [main] INFO  Log - Username passed
+2025-12-19 23:53:08 [main] INFO  Log - Password entered
+2025-12-19 23:53:08 [main] INFO  Log - Login button clicked
+2025-12-19 23:53:08 [main] INFO  Log - login successful
+2025-12-19 23:53:08 [main] INFO  Log - Closing the browser
+2025-12-28 00:30:38 [main] INFO  Log - Starting webDriver
+2025-12-28 00:30:41 [main] INFO  Log - Navigating to test url
+2025-12-28 00:30:41 [main] INFO  Log - Starting login test
+2025-12-28 00:30:41 [main] INFO  Log - Entering the credentials
+2025-12-28 00:30:41 [main] INFO  Log - Username passed
+2025-12-28 00:30:41 [main] INFO  Log - Password entered
+2025-12-28 00:30:41 [main] INFO  Log - Login button clicked
+2025-12-28 00:30:41 [main] INFO  Log - login successful
+2025-12-28 00:30:41 [main] INFO  Log - Closing the browser
+2025-12-28 01:13:33 [main] INFO  Log - Starting webDriver
+2025-12-28 01:13:35 [main] INFO  Log - Navigating to test url
+2025-12-28 01:13:35 [main] INFO  Log - Starting login test
+2025-12-28 01:13:35 [main] INFO  Log - Entering the credentials
+2025-12-28 01:13:35 [main] INFO  Log - Username passed
+2025-12-28 01:13:35 [main] INFO  Log - Password entered
+2025-12-28 01:13:35 [main] INFO  Log - Login button clicked
+2025-12-28 01:13:35 [main] INFO  Log - login successful
+2025-12-28 01:13:36 [main] INFO  Log - Closing the browser
+2025-12-28 01:19:26 [main] INFO  Log - Starting webDriver
+2025-12-28 01:19:28 [main] INFO  Log - Navigating to test url
+2025-12-28 01:19:28 [main] INFO  Log - Starting login test
+2025-12-28 01:19:29 [main] INFO  Log - Entering the credentials
+2025-12-28 01:19:29 [main] INFO  Log - Username passed
+2025-12-28 01:19:29 [main] INFO  Log - Password entered
+2025-12-28 01:19:29 [main] INFO  Log - Login button clicked
+2025-12-28 01:19:29 [main] INFO  Log - login successful
+2025-12-28 01:19:29 [main] INFO  Log - Closing the browser
+2025-12-28 01:24:54 [main] INFO  Log - Starting webDriver
+2025-12-28 01:24:56 [main] INFO  Log - Navigating to test url
+2025-12-28 01:24:56 [main] INFO  Log - Starting Invalid login test
+2025-12-28 01:24:56 [main] INFO  Log - Entering the credentials
+2025-12-28 01:24:56 [main] INFO  Log - Username passed
+2025-12-28 01:24:56 [main] INFO  Log - Password entered
+2025-12-28 01:24:57 [main] INFO  Log - Login button clicked
+2025-12-28 01:24:57 [main] INFO  Log - login if failed
+2025-12-28 01:24:57 [main] INFO  Log - Closing the browser
+2025-12-28 01:24:57 [main] INFO  Log - Starting webDriver
+2025-12-28 01:24:58 [main] INFO  Log - Navigating to test url
+2025-12-28 01:24:59 [main] INFO  Log - Starting login test
+2025-12-28 01:24:59 [main] INFO  Log - Entering the credentials
+2025-12-28 01:24:59 [main] INFO  Log - Username passed
+2025-12-28 01:24:59 [main] INFO  Log - Password entered
+2025-12-28 01:24:59 [main] INFO  Log - Login button clicked
+2025-12-28 01:24:59 [main] INFO  Log - login successful
+2025-12-28 01:24:59 [main] INFO  Log - Closing the browser
+2025-12-28 23:56:29 [main] INFO  Log - Starting webDriver
+2025-12-28 23:56:32 [main] INFO  Log - Navigating to test url
+2025-12-28 23:56:32 [main] INFO  Log - Starting Invalid login test
+2025-12-28 23:56:32 [main] INFO  Log - Entering the credentials
+2025-12-28 23:56:32 [main] INFO  Log - Username passed
+2025-12-28 23:56:32 [main] INFO  Log - Password entered
+2025-12-28 23:56:32 [main] INFO  Log - Login button clicked
+2025-12-28 23:56:32 [main] INFO  Log - login is failed
+2025-12-28 23:56:33 [main] INFO  Log - Closing the browser
+2025-12-28 23:56:33 [main] INFO  Log - Starting webDriver
+2025-12-28 23:56:34 [main] INFO  Log - Navigating to test url
+2025-12-28 23:56:34 [main] INFO  Log - Starting login test
+2025-12-28 23:56:34 [main] INFO  Log - Entering the credentials
+2025-12-28 23:56:35 [main] INFO  Log - Username passed
+2025-12-28 23:56:35 [main] INFO  Log - Password entered
+2025-12-28 23:56:35 [main] INFO  Log - Login button clicked
+2025-12-28 23:56:35 [main] INFO  Log - login successful
+2025-12-28 23:56:35 [main] INFO  Log - Closing the browser
+2025-12-29 23:17:32 [main] INFO  Log - Starting webDriver
+2025-12-29 23:17:34 [main] INFO  Log - Navigating to test url
+2025-12-29 23:17:35 [main] INFO  Log - Starting Invalid login test
+2025-12-29 23:17:35 [main] INFO  Log - Entering the credentials
+2025-12-29 23:17:35 [main] INFO  Log - Username passed
+2025-12-29 23:17:35 [main] INFO  Log - Password entered
+2025-12-29 23:17:35 [main] INFO  Log - Login button clicked
+2025-12-29 23:17:35 [main] INFO  Log - login is failed
+2025-12-29 23:17:35 [main] INFO  Log - Closing the browser
+2025-12-29 23:20:17 [main] INFO  Log - Starting webDriver
+2025-12-29 23:20:19 [main] INFO  Log - Navigating to test url
+2025-12-29 23:20:19 [main] INFO  Log - Starting login test
+2025-12-29 23:20:19 [main] INFO  Log - Entering the credentials
+2025-12-29 23:20:19 [main] INFO  Log - Username passed
+2025-12-29 23:20:19 [main] INFO  Log - Password entered
+2025-12-29 23:20:19 [main] INFO  Log - Login button clicked
+2025-12-29 23:20:19 [main] INFO  Log - login successful
+2025-12-29 23:20:20 [main] INFO  Log - Closing the browser
+2025-12-29 23:20:20 [main] INFO  Log - Starting webDriver
+2025-12-29 23:20:21 [main] INFO  Log - Navigating to test url
+2025-12-29 23:20:21 [main] INFO  Log - Starting login test
+2025-12-29 23:20:21 [main] INFO  Log - Entering the credentials
+2025-12-29 23:20:21 [main] INFO  Log - Username passed
+2025-12-29 23:20:21 [main] INFO  Log - Password entered
+2025-12-29 23:20:21 [main] INFO  Log - Login button clicked
+2025-12-29 23:20:21 [main] INFO  Log - login successful
+2025-12-29 23:20:22 [main] INFO  Log - Closing the browser
+2025-12-29 23:20:22 [main] INFO  Log - Starting webDriver
+2025-12-29 23:20:23 [main] INFO  Log - Navigating to test url
+2025-12-29 23:20:24 [main] INFO  Log - Starting login test
+2025-12-29 23:20:24 [main] INFO  Log - Entering the credentials
+2025-12-29 23:20:24 [main] INFO  Log - Username passed
+2025-12-29 23:20:24 [main] INFO  Log - Password entered
+2025-12-29 23:20:24 [main] INFO  Log - Login button clicked
+2025-12-29 23:20:24 [main] INFO  Log - login successful
+2025-12-29 23:20:24 [main] INFO  Log - Closing the browser
+2025-12-29 23:39:06 [main] INFO  Log - Starting webDriver
+2025-12-29 23:39:08 [main] INFO  Log - Navigating to test url
+2025-12-29 23:39:08 [main] INFO  Log - Starting Invalid login test
+2025-12-29 23:39:08 [main] INFO  Log - Entering the credentials
+2025-12-29 23:39:09 [main] INFO  Log - Username passed
+2025-12-29 23:39:09 [main] INFO  Log - Password entered
+2025-12-29 23:39:09 [main] INFO  Log - Login button clicked
+2025-12-29 23:39:09 [main] INFO  Log - login is failed
+2025-12-29 23:39:09 [main] INFO  Log - Closing the browser
+2025-12-29 23:39:10 [main] INFO  Log - Starting webDriver
+2025-12-29 23:39:11 [main] INFO  Log - Navigating to test url
+2025-12-29 23:39:11 [main] INFO  Log - Starting login test
+2025-12-29 23:39:11 [main] INFO  Log - Entering the credentials
+2025-12-29 23:39:12 [main] INFO  Log - Username passed
+2025-12-29 23:39:12 [main] INFO  Log - Password entered
+2025-12-29 23:39:12 [main] INFO  Log - Login button clicked
+2025-12-29 23:39:12 [main] INFO  Log - login successful
+2025-12-29 23:39:12 [main] INFO  Log - Closing the browser
+2025-12-29 23:39:12 [main] INFO  Log - Starting webDriver
+2025-12-29 23:39:13 [main] INFO  Log - Navigating to test url
+2025-12-29 23:39:13 [main] INFO  Log - Starting login test
+2025-12-29 23:39:13 [main] INFO  Log - Entering the credentials
+2025-12-29 23:39:14 [main] INFO  Log - Username passed
+2025-12-29 23:39:14 [main] INFO  Log - Password entered
+2025-12-29 23:39:14 [main] INFO  Log - Login button clicked
+2025-12-29 23:39:14 [main] INFO  Log - login successful
+2025-12-29 23:39:14 [main] INFO  Log - Closing the browser
+2025-12-29 23:39:14 [main] INFO  Log - Starting webDriver
+2025-12-29 23:39:16 [main] INFO  Log - Navigating to test url
+2025-12-29 23:39:16 [main] INFO  Log - Starting login test
+2025-12-29 23:39:16 [main] INFO  Log - Entering the credentials
+2025-12-29 23:39:16 [main] INFO  Log - Username passed
+2025-12-29 23:39:16 [main] INFO  Log - Password entered
+2025-12-29 23:39:16 [main] INFO  Log - Login button clicked
+2025-12-29 23:39:16 [main] INFO  Log - login successful
+2025-12-29 23:39:16 [main] INFO  Log - Closing the browser
+2025-12-31 16:52:16 [main] INFO  Log - Starting webDriver
+2025-12-31 16:52:19 [main] INFO  Log - Navigating to test url
+2025-12-31 16:52:19 [main] INFO  Log - Starting login test
+2025-12-31 16:52:19 [main] INFO  Log - Entering the credentials
+2025-12-31 16:52:19 [main] INFO  Log - Username passed
+2025-12-31 16:52:20 [main] INFO  Log - Password entered
+2025-12-31 16:52:20 [main] INFO  Log - Login button clicked
+2025-12-31 16:52:20 [main] INFO  Log - login successful
+2025-12-31 16:52:20 [main] INFO  Log - Closing the browser
+2025-12-31 16:52:20 [main] INFO  Log - Starting webDriver
+2025-12-31 16:52:21 [main] INFO  Log - Navigating to test url
+2025-12-31 16:52:21 [main] INFO  Log - Starting login test
+2025-12-31 16:52:21 [main] INFO  Log - Entering the credentials
+2025-12-31 16:52:22 [main] INFO  Log - Username passed
+2025-12-31 16:52:22 [main] INFO  Log - Password entered
+2025-12-31 16:52:22 [main] INFO  Log - Login button clicked
+2025-12-31 16:52:22 [main] INFO  Log - login successful
+2025-12-31 16:52:22 [main] INFO  Log - Closing the browser
+2025-12-31 16:52:22 [main] INFO  Log - Starting webDriver
+2025-12-31 16:52:24 [main] INFO  Log - Navigating to test url
+2025-12-31 16:52:24 [main] INFO  Log - Starting login test
+2025-12-31 16:52:24 [main] INFO  Log - Entering the credentials
+2025-12-31 16:52:24 [main] INFO  Log - Username passed
+2025-12-31 16:52:24 [main] INFO  Log - Password entered
+2025-12-31 16:52:24 [main] INFO  Log - Login button clicked
+2025-12-31 16:52:24 [main] INFO  Log - login successful
+2025-12-31 16:52:24 [main] INFO  Log - Closing the browser
